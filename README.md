@@ -1,6 +1,6 @@
 # 📁 FileOrganizer & NumPy Image Automation
 
-Progetto sviluppato in **Python** e **NumPy** nell'ambito del percorso di formazione in Artificial Intelligence e Data Analytics. L'obiettivo del progetto è combinare l'automazione del file system, la gestione di interfacce a riga di comando (CLI) e l'analisi di immagini basata su array numerici.
+Progetto sviluppato in **Python** e **NumPy** nell'ambito del percorso di formazione del Master in AI e Agenti AI per il business. L'obiettivo del progetto è combinare l'automazione del file system, la gestione di interfacce a riga di comando (CLI) e l'analisi di immagini basata su array numerici.
 
 ---
 
